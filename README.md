@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hamid Rehman</h1>
 <h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
-<img align="right" alt="coding width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamid-rehman-x6&label=Profile%20views&color=0e75b6&style=flat" alt="hamid-rehman-x6" /> </p>
 
