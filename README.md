@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://codilime.com/static/354674827088fb7685eb981f2055ce71/header-backend-tools.png" alt="Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Muhammad Hamid Rehman</h1>
 <h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
