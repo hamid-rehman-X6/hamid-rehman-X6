@@ -58,7 +58,7 @@ Specialized in React, Node.js, and modern full-stack architectures with strong D
 
 ## 🤝 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/hamidrehman1012  
+- LinkedIn: https://linkedin.com/in/muhammadhamidrahman
 - Twitter: https://twitter.com/hamid_rajput  
 - Instagram: https://instagram.com/m.hamid_rehman  
 - LeetCode: https://www.leetcode.com/Hamid_Rehman  
