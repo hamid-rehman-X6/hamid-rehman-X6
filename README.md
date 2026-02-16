@@ -56,14 +56,6 @@ Specialized in React, Node.js, and modern full-stack architectures with strong D
 
 ---
 
-## 📈 GitHub Statistics
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hamid-rehman-x6&layout=compact&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamid-rehman-x6&show_icons=true&hide_border=true)
-
----
-
 ## 🤝 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/hamidrehman1012  
