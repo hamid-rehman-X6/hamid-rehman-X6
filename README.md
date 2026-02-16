@@ -1,31 +1,76 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hamid Rehman</h1>
-<h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
+# Muhammad Hamid Rehman
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamid-rehman-x6&label=Profile%20views&color=0e75b6&style=flat" alt="hamid-rehman-x6" /> </p>
+Full Stack Developer with 2+ years of professional experience building scalable, production-grade web applications.  
+Specialized in React, Node.js, and modern full-stack architectures with strong DevOps and AI integration exposure.
 
-- 🌱 I’m currently learning **Angular.js, React Native**
+---
 
-- 👨‍💻 All of my projects are available at [https://mhr-portfolio.netlify.app/](https://mhr-portfolio.netlify.app/)
+## 👨‍💻 Professional Summary
 
-- 💬 Ask me about **Reactjs, Nodejs**
+- 💼 2+ years of experience as a Full Stack Developer  
+- 🚀 Experienced in designing scalable MERN and Next.js applications  
+- 🤖 Working with AI integrations (LLMs, RAG pipelines)  
+- ⚙️ Strong understanding of clean architecture, CI/CD, and containerization  
+- 📫 Contact: **hamidrehman1012@gmail.com**  
+- 🌐 Portfolio: https://mhr-portfolio.netlify.app/
 
-- 📫 How to reach me **hamidrehman1012@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hamid_rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamid_rajput" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hamidrehman1012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamidrehman1012" height="30" width="40" /></a>
-<a href="https://instagram.com/m.hamid_rehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.hamid_rehman" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Hamid_Rehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hamidrehman" height="30" width="40" /></a>
-</p>
+## 🛠 Technical Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Frontend
+- React.js
+- Next.js
+- JavaScript (ES6+)
+- TypeScript
+- HTML5 & CSS3
+- Tailwind CSS
+- Material UI
+- shadcn/ui
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamid-rehman-x6&show_icons=true&locale=en&layout=compact" alt="hamid-rehman-x6" /></p>
+### Backend
+- Node.js
+- Express.js
+- FastAPI
+- RESTful APIs
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamid-rehman-x6&show_icons=true&locale=en" alt="hamid-rehman-x6" /></p>
+### Databases
+- MongoDB
+- MySQL
+- PostgreSQL
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamid-rehman-x6&" alt="hamid-rehman-x6" /></p>
+### DevOps & Cloud
+- Docker
+- CI/CD Pipelines
+- GitHub Actions
 
+### AI & Modern Integrations
+- LangChain
+- RAG (Retrieval-Augmented Generation)
+- LLM Integrations
+
+### Tools & Workflow
+- Git & GitHub
+- Postman
+- VS Code
+
+---
+
+## 📈 GitHub Statistics
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hamid-rehman-x6&layout=compact&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamid-rehman-x6&show_icons=true&hide_border=true)
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/hamidrehman1012  
+- Twitter: https://twitter.com/hamid_rajput  
+- Instagram: https://instagram.com/m.hamid_rehman  
+- LeetCode: https://www.leetcode.com/Hamid_Rehman  
+
+---
+
+> I focus on building maintainable systems, performance-optimized applications, and scalable AI-powered solutions.
