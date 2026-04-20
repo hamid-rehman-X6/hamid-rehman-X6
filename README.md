@@ -12,7 +12,7 @@ Specialized in React, Node.js, and modern full-stack architectures with strong D
 - 🤖 Working with AI integrations (LLMs, RAG pipelines)  
 - ⚙️ Strong understanding of clean architecture, CI/CD, and containerization  
 - 📫 Contact: **hamidrehman1012@gmail.com**  
-- 🌐 Portfolio: https://mhr-portfolio.netlify.app/
+- 🌐 Portfolio: [https://mhr-portfolio.netlify.app/](https://hamid-rehman-x6.github.io/my-portfolio/)
 
 ---
 
