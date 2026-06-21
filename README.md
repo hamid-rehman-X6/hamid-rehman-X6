@@ -114,13 +114,13 @@ const hamid = {
 ---
 
 <!-- ====================== SNAKE ANIMATION ====================== -->
-## 🐍 Contribution Snake
+<!-- ## 🐍 Contribution Snake -->
 
-<div align="center">
+<!-- <div align="center"> -->
 
-<img src="https://raw.githubusercontent.com/hamid-rehman-x6/hamid-rehman-x6/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<!-- <img src="https://raw.githubusercontent.com/hamid-rehman-x6/hamid-rehman-x6/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/> -->
 
-</div>
+<!-- </div> -->
 
 ---
 
